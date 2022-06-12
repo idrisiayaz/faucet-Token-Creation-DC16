@@ -4,6 +4,9 @@ You can claim free "10,000" faucet Token DC16 and playaround and buy nft on the 
 You can transfer amount from one account to another.
 
 
+The project consist of perfect combination of React frontend along with motoko backend for performing smooth task processing and having best
+user experience with the old school website theme.
+
 ![Screenshot 2022-06-12 162354](https://user-images.githubusercontent.com/88124100/173229736-b3afc604-7495-44e4-8a4d-7ec83fb038de.png)
 ![Screenshot 2022-06-12 162329](https://user-images.githubusercontent.com/88124100/173229738-932af73b-de4f-4f1e-9f07-18152f64bb20.png)
 ![Screenshot 2022-06-12 162311](https://user-images.githubusercontent.com/88124100/173229739-bfd0c01e-8be7-4d99-8455-c67ffe06b585.png)
